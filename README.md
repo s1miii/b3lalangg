@@ -11,6 +11,3 @@
 ```text
 💻 Operating Systems:
 Windows                  28 hrs 46 mins       █████████████████████████   100.0%
-
-
-Made with ♥ and Python 🐍.
